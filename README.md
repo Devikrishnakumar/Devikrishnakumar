@@ -5,7 +5,7 @@
 **Cybersecurity Student | Backend Security Enthusiast | CTF Learner**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devi-krishnakumar-681417338?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 </div>
 
