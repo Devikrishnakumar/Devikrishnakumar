@@ -81,7 +81,7 @@ I enjoy analyzing real-world attack patterns and applying secure coding practice
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: YOUR_PORTFOLIO_LINK  
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK  
+- 💼 LinkedIn: https://www.linkedin.com/in/devi-krishnakumar-681417338?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
